@@ -1,2 +1,6 @@
 # TP-LINUX-L20r7IIzmn37
-Aca se pondran lo solicitado en la consigna de blackboard
+ALUMNOS:
+THEO BOGGAN
+LUCAS ALEJANDRO VILLAR
+THOMAS VALERO
+JULIAN CONTUREYUZON
